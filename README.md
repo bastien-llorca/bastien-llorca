@@ -22,7 +22,7 @@ A Tic Tac Toe game without any framework.
 
 - Languages: Python
 - Key Features:
-- [https://github.com/bastien-llorca/tictactoe]
+- [https://github.com/bastien-llorca/Tic-Tac-Toe]
 
 #### 2. **FanSite**
 
@@ -75,7 +75,7 @@ Un jeu Morpion sans framework
 
 - Langages : Python
 - Fonctionnalités principales :
-- [https://github.com/bastien-llorca/tictactoe]
+- [https://github.com/bastien-llorca/Tic-Tac-Toe]
 
 #### 2. **FanSite**
 
