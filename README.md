@@ -1,5 +1,57 @@
-<a href="https://ibb.co/zXML0t2"><img src="https://i.ibb.co/8rCRSQx/D-veloppeur-Cybers-curit.png" alt="D-veloppeur-Cybers-curit" width="1920x1080p"></a>
+![DALL·E-2024-11-29-11 48 09-A-professional-banner-for-a-cybersecurity-developer-named-Llorca-Bastien](https://github.com/user-attachments/assets/ab643ef6-3bd1-4e26-bf3f-701bd3c48709)
+# Bienvenue sur mon GitHub 💻⚡
 
+### Qui suis-je ?
+
+Je suis un étudiant passionné par la cybersécurité, en pleine formation pour devenir expert dans ce domaine fascinant. Avec une forte appétence pour les challenges techniques et une curiosité constante.
+
+### Ce que vous trouverez ici
+
+Sur ce dépôt, vous pourrez explorer mes projets et contributions dans divers domaines liés à la cybersécurité et autre :
+
+- **Creation site internet** : Dévelopement HTML et CSS
+- **Creation D'un morpion**: Script pour jouer a un morpion sans framework
+- **Scripts d'automatisation** : programmes pour automatiser des tâches courantes en sécurité informatique.
+
+### Projets phares
+
+#### 1. **Morpion**
+
+Un jeu Morpion sans framework
+
+- Langages : Python
+- Fonctionnalités principales :
+- [https://github.com/bastien-llorca/Tic-Tac-Toe]
+
+#### 2. **FanSite**
+
+Page internet pour présenter des artistes
+
+- Langages : HTML et CSS
+- [https://github.com/lucas-chhim/Newfansite]
+
+#### 3. **Script Call of Duty 6**
+
+Scripts d’automatisation pour effectuer une configuration audio sur Call of Duty
+
+- Langages :Python.
+- [Voir le projet]
+
+### Mes Compétences
+
+- **Langages de programmation** : Python, Bash, HTML, CSS
+- **Outils de cybersécurité** : VMWare, VirtualBox
+- **Systèmes d’exploitation** : Linux (Kali, Ubuntu), Windows.
+
+### Me contacter
+
+Si vous souhaitez collaborer ou échanger sur des sujets liés à la cybersécurité, n'hésitez pas :
+
+- **Email** : [llorcabastien@gmail.com](mailto:llorcabastien@gmail.com)
+- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/bastien-llorca-ba93302b3/)
+
+Merci de votre visite et bonne exploration de mes travaux !
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Welcome to my GitHub 💻⚡
 
 ### Who am I?
@@ -53,55 +105,4 @@ If you want to collaborate or discuss topics related to cybersecurity, feel free
 
 Thank you for visiting, and enjoy exploring my work!
 
-# Bienvenue sur mon GitHub 💻⚡
 
-### Qui suis-je ?
-
-Je suis un étudiant passionné par la cybersécurité, en pleine formation pour devenir expert dans ce domaine fascinant. Avec une forte appétence pour les challenges techniques et une curiosité constante.
-
-### Ce que vous trouverez ici
-
-Sur ce dépôt, vous pourrez explorer mes projets et contributions dans divers domaines liés à la cybersécurité et autre :
-
-- **Creation site internet** : Dévelopement HTML et CSS
-- **Creation D'un morpion**: Script pour jouer a un morpion sans framework
-- **Scripts d'automatisation** : programmes pour automatiser des tâches courantes en sécurité informatique.
-
-### Projets phares
-
-#### 1. **Morpion**
-
-Un jeu Morpion sans framework
-
-- Langages : Python
-- Fonctionnalités principales :
-- [https://github.com/bastien-llorca/Tic-Tac-Toe]
-
-#### 2. **FanSite**
-
-Page internet pour présenter des artistes
-
-- Langages : HTML et CSS
-- [https://github.com/lucas-chhim/Newfansite]
-
-#### 3. **Script Call of Duty 6**
-
-Scripts d’automatisation pour effectuer une configuration audio sur Call of Duty
-
-- Langages :Python.
-- [Voir le projet]
-
-### Mes Compétences
-
-- **Langages de programmation** : Python, Bash, HTML, CSS
-- **Outils de cybersécurité** : VMWare, VirtualBox
-- **Systèmes d’exploitation** : Linux (Kali, Ubuntu), Windows.
-
-### Me contacter
-
-Si vous souhaitez collaborer ou échanger sur des sujets liés à la cybersécurité, n'hésitez pas :
-
-- **Email** : [llorcabastien@gmail.com](mailto:llorcabastien@gmail.com)
-- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/bastien-llorca-ba93302b3/)
-
-Merci de votre visite et bonne exploration de mes travaux !
