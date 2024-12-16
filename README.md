@@ -52,7 +52,7 @@ Si vous souhaitez collaborer ou échanger sur des sujets liés à la cybersécur
 
 ### Mon Portfolio
 
-[https://portefolio-bastien-llorca.netlify.app]
+https://portefolio-bastien-llorca.netlify.app
 
 Merci de votre visite et bonne exploration de mes travaux !
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
