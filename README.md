@@ -30,13 +30,6 @@ Page internet pour présenter des artistes
 - Langages : HTML et CSS
 - [https://github.com/lucas-chhim/Newfansite]
 
-#### 3. **Script Call of Duty 6**
-
-Scripts d’automatisation pour effectuer une configuration audio sur Call of Duty
-
-- Langages :Python.
-- [Voir le projet]
-
 ### Mes Compétences
 
 - **Langages de programmation** : Python, Bash, HTML, CSS
@@ -86,13 +79,6 @@ A web page to showcase artists.
 
 - Languages: HTML and CSS
 - [https://github.com/lucas-chhim/Newfansite]
-
-#### 3. **Call of Duty 6 Script**
-
-Automation scripts for configuring audio settings in Call of Duty.
-
-- Languages: Python
-- [View Project]
 
 ### My Skills
 
